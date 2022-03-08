@@ -7,6 +7,11 @@ body {
 
 }
 
+.header1 {
+    background-color: rgb(221, 177, 177);
+
+}
+
 .footer {
 
     text-align: center;
@@ -14,4 +19,3 @@ body {
   background-color: #5390d9;
 
   }
-  
